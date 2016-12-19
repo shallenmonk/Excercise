@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Design Challenge</title>
+</head>
+<body>Gregs List</h2>
+<ul>
+	<li>Post</li>
+	<li>Account</li>
+</ul>
+</nav>
+
+<div class="searchheader">
+	<input type="text" name="Search" value="Search Software Jobs">
+	 <input type="image"  src="magnifying-glass.png"	alt="submit"><br>
+</div>
+
+
+<div class="pageturn">
+<button type="button"> pre </button>
+
+<p> 1 to 100 of 179</p>
+<button type="button"> next </button>
+</div>
+
+
+<div class="line">
+	<p class="blue">June 22 </p><p class="actblue">Techincal Project Manager</p><p class="loco">Midtown East</p>
+
+</div>
+
+<div class="line">
+	<p class="blue">June 21 </p><p class="actblue">Frontend Developer</p><p class="loco">SoHo</p>
+
+</div>
+<div class="line">
+	<p class="blue">June 20 </p><p class="actblue">Senior Pythom Developer/Cofounder</p><p class="loco">Flatiron</p>
+
+</div>
+
+
+
+</body>
+</html>
